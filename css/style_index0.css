@@ -34,7 +34,7 @@ header::before {
 }
 nav {
 	width: 100%;
-	background-color: #dce1e3;
+	background-color: #0575a1;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
